@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">GPA Calculator</string>
+    <string name="number_label">Number of Classes:</string>
+    <string name="letter_label">Letter Grade:</string>
+    <string name="credit_hour_label">Credit Hours:</string>
+    <string name="calculate">Calculate</string>
+    <!--<array name="number_classes">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </array>-->
+    <array name="number_classes">
+        <item>one</item>
+        <item>two</item>
+        <item>three</item>
+        <item>four</item>
+        <item>five</item>
+        <item>six</item>
+        <item>seven</item>
+        <item>eight</item>
+        <item>nine</item>
+        <item>ten</item>
+    </array>
+    <array name="letter_grades">
+        <item>A+</item>
+        <item>A</item>
+        <item>A-</item>
+        <item>B+</item>
+        <item>B</item>
+        <item>B-</item>
+        <item>C+</item>
+        <item>C</item>
+        <item>C-</item>
+        <item>D+</item>
+        <item>D</item>
+        <item>D-</item>
+        <item>F</item>
+    </array>
+    <array name="grade_hours">
+        <item>0.5</item>
+        <item>1</item>
+    </array>
+</resources>
